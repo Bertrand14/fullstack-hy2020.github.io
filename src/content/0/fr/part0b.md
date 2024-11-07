@@ -588,11 +588,11 @@ La position de React semble aujourd'hui dominante, mais le monde de JavaScript e
 
 Que signifie le nom du cours, <i>Développement Web Full Stack</i> ? Le full stack est un mot à la mode dont tout le monde parle, alors que personne ne sait vraiment ce que cela signifie. Ou du moins, il n'y a pas de définition convenue pour le terme.
 
-Preque toutes les applications Web ont (au moins) deux "couches": le navigateur, étant plus proche de l'utilisateur final, est la couche supérieure et le serveur contitue la couche inférieure. Il y a souvent aussi une couche de base de données sous le serveur. On peut donc penser à l'<i>architecture</i> d'une application web comme une sorte de <i>pile (stack)</i> de couches.
+Presque toutes les applications Web ont (au moins) deux "couches": le navigateur, étant plus proche de l'utilisateur final, est la couche supérieure et le serveur contitue la couche inférieure. Il y a souvent aussi une couche de base de données sous le serveur. On peut donc penser à l'<i>architecture</i> d'une application web comme une sorte de <i>pile (stack)</i> de couches.
 
 Souvent, on parle aussi du [frontend et du backend](https://en.wikipedia.org/wiki/Front_and_back_ends). Le navigateur est le frontend, la partie client, et le code JavaScript qui s'exécute sur le navigateur est le code de la partie client. Le serveur, quant à lui, est le backend.
 
-Dans le cadre de ce cours, le développement web full stack signifie que nous nous concentrons sur toutes les parties de l'application : le frontend, le backend et la base de données. Parfois, le logiciel sur le serveur et son système d'exploitation sont considérés comme une partie distincte de l'application, mais nous ne les aborderons pas dans ici.
+Dans le cadre de ce cours, le développement web full stack signifie que nous nous concentrons sur toutes les parties de l'application : le frontend, le backend et la base de données. Parfois, le logiciel sur le serveur et son système d'exploitation sont considérés comme une partie distincte de l'application, mais nous ne les aborderons pas ici.
 
 Nous allons coder le backend avec JavaScript, en utilisant l'environnement d'exécution [Node.js](https://nodejs.org/en/). L'utilisation du même langage de programmation pour le backend et le frontend confère au développement d'une application web complète une toute nouvelle dimension. Cependant, il n'est pas obligatoire pour le développement Web "full-stack" d'utiliser le même langage de programmation (JavaScript) pour toutes les parties de  l'application.
 
